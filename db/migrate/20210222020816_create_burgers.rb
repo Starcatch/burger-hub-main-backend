@@ -5,6 +5,7 @@ class CreateBurgers < ActiveRecord::Migration[6.0]
       t.string :description
       t.string :status
       t.string :image
+      t.string :url
       t.float :price
       t.integer :user_id
 
