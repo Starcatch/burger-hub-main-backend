@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2021-02-21 21:17:05
+  status: MyString
+  user_id: 1
+  total: 1.5
+
+two:
+  date: 2021-02-21 21:17:05
+  status: MyString
+  user_id: 1
+  total: 1.5
