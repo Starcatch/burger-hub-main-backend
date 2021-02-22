@@ -1,0 +1,2 @@
+class OrderBurger < ApplicationRecord
+end
